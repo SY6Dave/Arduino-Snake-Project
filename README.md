@@ -9,3 +9,5 @@ Uses an 8x8 dot matrix display and two buttons to play the arcade game 'Snake'
 * 8x220 resistors (for the dot matrix)
 * 2x10k resistors (for the buttons)
 * Jumper cables
+
+You'll also need the TrueRandom library which can be found with a quick google search
